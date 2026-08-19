@@ -93,4 +93,10 @@
 
 # TouchableOpacitity 
 - it is react-native components used to make something touchable/tapable
-- 
+
+# activity5
+- what is reuable components
+- create 4 resuable componets - custombutton, customcard, customheadre, custominput
+- what is porps and its types
+- how we can the 4 components in one file
+- combine all 4 reusable components
