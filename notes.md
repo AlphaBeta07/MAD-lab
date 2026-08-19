@@ -55,9 +55,6 @@
 - const[email, setEmail] = useState('');
         
 
-<textInput>
-
-
 # activity4
 - watch react-native prop video
 - write 2 example of react-navtive props
@@ -94,3 +91,6 @@
 - props read only proprety, state can be updated 
 - porps used to configure component, state used to store changing data
 
+# TouchableOpacitity 
+- it is react-native components used to make something touchable/tapable
+- 
