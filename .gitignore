@@ -1,1 +1,28 @@
-./node_modules
+# Node dependencies
+node_modules/
+**/node_modules/
+npm-debug.log
+yarn-error.log
+
+# Android build outputs and caches
+**/build/
+**/.gradle/
+**/local.properties
+**/.idea/
+**/.cxx/
+*.hprof
+*.iml
+
+# iOS build outputs
+**/DerivedData/
+**/Pods/
+**/.xcode.env.local
+
+# Environment variables
+**/.env
+**/.env.local
+**/.env.firebase
+
+# OS metadata
+.DS_Store
+Thumbs.db
